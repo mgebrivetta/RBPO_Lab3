@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\burni\\desktop\\иветта\\rbpolabs\\l3\\lab3\\lab3\\bpz1902.mgebrishvili.lab3.task4.f3.ixx",
+        "ProvidedModule": "BPZ1902.Mgebrishvili.Lab3.Task4:f3",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "BPZ1902.Mgebrishvili.Lab3.Task4:a",
+                "BMI": "C:\\Users\\burni\\Desktop\\Иветта\\RBPOlabs\\L3\\Lab3\\Lab3\\Debug\\BPZ1902.Mgebrishvili.Lab3.Task4.a.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cmath",
+                "BMI": "C:\\Users\\burni\\Desktop\\Иветта\\RBPOlabs\\L3\\Lab3\\Lab3\\Debug\\cmath_DL679W2K5EOYAYHF.ifc"
+            }
+        ]
+    }
+}
